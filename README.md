@@ -1,2 +1,7 @@
-# Image_Processing_lib
-A library implementing image processing techniques
+# Image Processing Library
+
+This is a library implementing image processing techniques in C++.
+
+## Image Formats Supported
+
+* BMP (Bitmap)
